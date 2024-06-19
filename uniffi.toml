@@ -1,0 +1,7 @@
+[bindings.kotlin]
+package_name = "com.test.math"
+android = true
+
+# [bindings.kotlin.external_packages]
+# # This specifies that external types from the crate `rust-crate-name` will be referred by by the package `"kotlin.package.name`.
+# rust-crate-name = "kotlin.package.name"
